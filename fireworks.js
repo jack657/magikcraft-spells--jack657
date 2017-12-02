@@ -4,5 +4,5 @@ function fireworks(){
          const there = magik.aspecto();
          magik.stella(there);
      }
-     magik.doNTimes(firework, 50);
+     magik.doNTimes(firework, 5);
 }
