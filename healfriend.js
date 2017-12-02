@@ -1,4 +1,4 @@
 const magik = magikcraft.io;
-function healFriend(playerName) {
+function healfriend(playerName) {
     magik.auxilium(playerName);
 }
